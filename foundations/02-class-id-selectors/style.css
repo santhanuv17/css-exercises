@@ -1,0 +1,19 @@
+.odd-ele {
+  background-color: pink;
+  font-family: "Verdana", "DejaVu", sans-serif;
+}
+
+.second-ele {
+  color: blue;
+  font-size: 36px;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#fourth-ele {
+  color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
